@@ -1594,6 +1594,8 @@ ul.social_icons li  a i{
   padding:0;
 }
 
+
+
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
 .isotope-item {
@@ -2112,6 +2114,17 @@ ul.faq li > div h3 {
   height: 100%;
 }
 
+.embed {
+    
+    align-content: center;
+    text-align: left;
+    position: absolute;
+
+
+}
+
+
+
 .blog-item {
   border-radius: 0;
   overflow: hidden;
@@ -2549,4 +2562,11 @@ ul.arquivos li {
 	text-decoration:none;
 	list-style-type:none;
 
+}
 
+.video {
+    
+text-align: left;
+float: left;
+    
+}
